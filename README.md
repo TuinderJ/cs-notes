@@ -1,0 +1,1 @@
+This is my repository for note taking while studying computer science.
